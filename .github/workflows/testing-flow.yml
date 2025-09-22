@@ -3,7 +3,7 @@ name: CI / Only building & testing
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-test:
